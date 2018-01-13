@@ -5,6 +5,9 @@ console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some porti
 console.log("Of" + 500 + 750 + 3000 + 5100 + 12980 + 9087 + 50000 + " some portion derives from music sales.")
 
 
+var sum live perfomances="81417"
+var sum music sales="81417"
+
 // DON'T DO THIS PART YET:
 // Now that we understand what a variable is
 // rewrite the above lines of code using a variable to store the
